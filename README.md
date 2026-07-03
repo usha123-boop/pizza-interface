@@ -14,7 +14,7 @@ https://github.com/usha123-boop/pizza-interface
 
 ## 📸 Preview
 
-![Home Page](./public/preview.png)
+![Home Page].https://github.com/usha123-boop/portfolio/blob/main/usha-img.png
 
 > Replace `preview.png` with a screenshot of your application.
 
